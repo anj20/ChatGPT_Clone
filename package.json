@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gradio": "^0.1.0",
+    "openai": "^3.1.0"
+  }
+}
